@@ -3,11 +3,11 @@ const express = require('express');
 const mongoose = require('mongoose');
 
 const app = express();
-app.use(express.json()); // Permite trabajar con datos JSON en las solicitudes
+app.use(express.json()); // trabajar con datos JSON en las solicitudes
 
 // Conexión a MongoDB
 mongoose
-    .connect(process.env.MONGO_URI) // Usa la variable MONGO_URI del archivo .env
+    .connect(process.env.MONGO_URI) 
     .then(() => {
         console.log('Conexión exitosa a MongoDB');
     })
@@ -28,24 +28,6 @@ app.listen(PORT, () => {
 
 const Deportista = require('./models/Deportista');
 
-// Crear un ejemplo de deportista al iniciar el servidor
-const crearDeportista = async () => {
-    const deportista = new Deportista({
-        nombre: 'Juan Pérez',
-        edad: 25,
-        equipo: 'Equipo A',
-        posicion: 'Delantero',
-    });
-
-    try {
-        const resultado = await deportista.save();
-        console.log('Deportista creado:', resultado);
-    } catch (err) {
-        console.error('Error al crear deportista:', err);
-    }
-};
-
-crearDeportista();
 
 const deportistasRoutes = require('./routes/deportistas');
 const entrenadoresRoutes = require('./routes/entrenadores');
