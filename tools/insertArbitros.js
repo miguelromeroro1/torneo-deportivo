@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const Arbitro = require('./models/Arbitro'); // Asegúrate de que el modelo está correctamente importado
+const Arbitro = require('../models/Arbitro'); // Asegúrate de que el modelo está correctamente importado
 
 require('dotenv').config();
 

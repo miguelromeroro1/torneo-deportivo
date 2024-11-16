@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const Arbitro = require('./models/Arbitro');
+const Arbitro = require('../models/Arbitro');
 
 require('dotenv').config();
 
