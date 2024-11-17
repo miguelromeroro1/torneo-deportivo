@@ -51,3 +51,16 @@
   - Real Madrid: 3 partidos, 2 victorias, 1 derrota, 0 empates, 6 puntos.
   - Bayern Múnich: 3 partidos, 1 victoria, 1 derrota, 1 empate, 4 puntos.
   - FC Barcelona: 3 partidos, 0 victorias, 2 derrotas, 1 empate, 1 punto.
+
+  # Finalizacion Aportes
+ finalize mis aportes correctamente
+- Implementación de rutas en `routes/`.
+- Diseño del archivo `README.md`.
+- Configuración y documentación en el archivo `participacion_Grupo.md`.
+
+**arbitros y experiencia**
+
+  - Carlo Ancelotti (Real Madrid, 25 años de experiencia).
+  - Pep Guardiola (Manchester City, 20 años de experiencia).
+  - Xavi Hernández (FC Barcelona, 5 años de experiencia).
+  - Thomas Tuchel (Bayern Múnich, 10 años de experiencia).
