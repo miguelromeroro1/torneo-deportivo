@@ -36,4 +36,6 @@
 
 "Actualización de la participación de Andrés"
 
- 
+ **configuracion de los equipos del torneo** Configurados correctamente 
+
+ **configuracion resultados de los partidos**  resultados actualizados 
