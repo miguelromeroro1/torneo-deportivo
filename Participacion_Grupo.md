@@ -65,3 +65,18 @@
   - Xavi Hernández (FC Barcelona, 5 años de experiencia).
   - Thomas Tuchel (Bayern Múnich, 10 años de experiencia).
 
+ # Finalizacion Aportes
+ finalize mis aportes correctamente
+- Diseño y creación de la base de datos (`seed.js`).
+- Implementación de los modelos en `models/`.
+- Inserción inicial de los datos en MongoDB Atlas.
+
+**Arbitros y experiencia**
+- Cada encuentro debe ser dirigido por un árbitro registrado.
+- Requisitos:
+  - Experiencia mínima de 10 años.
+  - Mínimo de 200 partidos arbitrados.
+  - Antonio Mateu Lahoz (15 años de experiencia, 300 partidos arbitrados).
+  - Michael Oliver (12 años de experiencia, 250 partidos arbitrados).
+  - Daniele Orsato (14 años de experiencia, 280 partidos arbitrados).
+
