@@ -40,3 +40,14 @@
 
  **configuracion resultados de los partidos**  resultados actualizados 
  
+ # Finalizacion Aportes
+ finalize mis aportes correctamente 
+ Limpieza y reinicio de las colecciones (`clearArbitros.js` y `insertArbitros.js`).
+- Configuración del repositorio remoto en GitHub.
+- Creación del archivo `.gitignore` para proteger los datos sensibles.
+
+**ultima actualizacion equipos del torneo**
+   - Manchester City: 3 partidos, 3 victorias, 0 derrotas, 0 empates, 9 puntos.
+  - Real Madrid: 3 partidos, 2 victorias, 1 derrota, 0 empates, 6 puntos.
+  - Bayern Múnich: 3 partidos, 1 victoria, 1 derrota, 1 empate, 4 puntos.
+  - FC Barcelona: 3 partidos, 0 victorias, 2 derrotas, 1 empate, 1 punto.
