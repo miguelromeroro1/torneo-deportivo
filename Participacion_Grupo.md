@@ -34,5 +34,5 @@
 2. **Revisión de Pull Requests:**
    - Se utilizaron `Pull Requests` para revisar y aprobar los cambios antes de integrarlos en la rama principal (`main`).
 
-
+"Actualización de la participación de Andrés"
 
