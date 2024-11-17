@@ -58,9 +58,10 @@
 - Diseño del archivo `README.md`.
 - Configuración y documentación en el archivo `participacion_Grupo.md`.
 
-**arbitros y experiencia**
+**Tecnicos y experiencia**
 
   - Carlo Ancelotti (Real Madrid, 25 años de experiencia).
   - Pep Guardiola (Manchester City, 20 años de experiencia).
   - Xavi Hernández (FC Barcelona, 5 años de experiencia).
   - Thomas Tuchel (Bayern Múnich, 10 años de experiencia).
+
