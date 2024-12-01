@@ -80,4 +80,17 @@
   - Michael Oliver (12 años de experiencia, 250 partidos arbitrados).
   - Daniele Orsato (14 años de experiencia, 280 partidos arbitrados).
   
+  ## Evidencia de Comandos Git
+
+A continuación, se documenta el uso de los comandos de Git para mantener el control del repositorio:
+
+1. `git add`: Se utilizó para preparar los cambios realizados en este archivo.
+2. `git commit`: Se creó un commit con un mensaje explicativo sobre los cambios realizados.
+3. `git branch`: Se verificó y creó una nueva rama llamada `evidencia-comandos`.
+4. `git remote`: Confirmamos la configuración del repositorio remoto.
+5. `git push`: Subimos los cambios a la rama remota.
+6. `git status`: Se verificó el estado del repositorio antes y después de los cambios.
+7. `git log`: Revisamos el historial de commits en el repositorio.
+8. `git ignore`: Utilizamos el archivo `.gitignore` para proteger archivos sensibles.
+
 
